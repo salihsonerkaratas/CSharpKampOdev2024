@@ -1,0 +1,136 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Soner\\Desktop\\Projeler\\Engin Demiro\u011F\\2024Kamp\u00D6dev\\MaskeTakip\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0240E7C9-A13B-4431-86C9-5533429B5E03}|Business\\Business.csproj|c:\\users\\soner\\desktop\\projeler\\engin demiro\u011F\\2024kamp\u00F6dev\\masketakip\\business\\concrete\\pttmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0240E7C9-A13B-4431-86C9-5533429B5E03}|Business\\Business.csproj|solutionrelative:business\\concrete\\pttmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1199481-3F55-4858-9686-C69BB679F976}|ConsoleApp1\\Workaround.csproj|c:\\users\\soner\\desktop\\projeler\\engin demiro\u011F\\2024kamp\u00F6dev\\masketakip\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1199481-3F55-4858-9686-C69BB679F976}|ConsoleApp1\\Workaround.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0240E7C9-A13B-4431-86C9-5533429B5E03}|Business\\Business.csproj|c:\\users\\soner\\desktop\\projeler\\engin demiro\u011F\\2024kamp\u00F6dev\\masketakip\\business\\concrete\\personmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0240E7C9-A13B-4431-86C9-5533429B5E03}|Business\\Business.csproj|solutionrelative:business\\concrete\\personmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0240E7C9-A13B-4431-86C9-5533429B5E03}|Business\\Business.csproj|c:\\users\\soner\\desktop\\projeler\\engin demiro\u011F\\2024kamp\u00F6dev\\masketakip\\business\\abstract\\isupplierservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0240E7C9-A13B-4431-86C9-5533429B5E03}|Business\\Business.csproj|solutionrelative:business\\abstract\\isupplierservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0240E7C9-A13B-4431-86C9-5533429B5E03}|Business\\Business.csproj|c:\\users\\soner\\desktop\\projeler\\engin demiro\u011F\\2024kamp\u00F6dev\\masketakip\\business\\concrete\\foreignermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0240E7C9-A13B-4431-86C9-5533429B5E03}|Business\\Business.csproj|solutionrelative:business\\concrete\\foreignermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0240E7C9-A13B-4431-86C9-5533429B5E03}|Business\\Business.csproj|c:\\users\\soner\\desktop\\projeler\\engin demiro\u011F\\2024kamp\u00F6dev\\masketakip\\business\\abstract\\iapplicantservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0240E7C9-A13B-4431-86C9-5533429B5E03}|Business\\Business.csproj|solutionrelative:business\\abstract\\iapplicantservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{846B16C7-E660-454F-AEA5-C6D53B0B108E}|Entities\\Entities.csproj|c:\\users\\soner\\desktop\\projeler\\engin demiro\u011F\\2024kamp\u00F6dev\\masketakip\\entities\\concrete\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{846B16C7-E660-454F-AEA5-C6D53B0B108E}|Entities\\Entities.csproj|solutionrelative:entities\\concrete\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ISupplierService.cs",
+              "DocumentMoniker": "C:\\Users\\Soner\\Desktop\\Projeler\\Engin Demiro\u011F\\2024Kamp\u00D6dev\\MaskeTakip\\Business\\Abstract\\ISupplierService.cs",
+              "RelativeDocumentMoniker": "Business\\Abstract\\ISupplierService.cs",
+              "ToolTip": "C:\\Users\\Soner\\Desktop\\Projeler\\Engin Demiro\u011F\\2024Kamp\u00D6dev\\MaskeTakip\\Business\\Abstract\\ISupplierService.cs",
+              "RelativeToolTip": "Business\\Abstract\\ISupplierService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-01T00:09:29.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ForeignerManager.cs",
+              "DocumentMoniker": "C:\\Users\\Soner\\Desktop\\Projeler\\Engin Demiro\u011F\\2024Kamp\u00D6dev\\MaskeTakip\\Business\\Concrete\\ForeignerManager.cs",
+              "RelativeDocumentMoniker": "Business\\Concrete\\ForeignerManager.cs",
+              "ToolTip": "C:\\Users\\Soner\\Desktop\\Projeler\\Engin Demiro\u011F\\2024Kamp\u00D6dev\\MaskeTakip\\Business\\Concrete\\ForeignerManager.cs",
+              "RelativeToolTip": "Business\\Concrete\\ForeignerManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T23:14:19.395Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IApplicantService.cs",
+              "DocumentMoniker": "C:\\Users\\Soner\\Desktop\\Projeler\\Engin Demiro\u011F\\2024Kamp\u00D6dev\\MaskeTakip\\Business\\Abstract\\IApplicantService.cs",
+              "RelativeDocumentMoniker": "Business\\Abstract\\IApplicantService.cs",
+              "ToolTip": "C:\\Users\\Soner\\Desktop\\Projeler\\Engin Demiro\u011F\\2024Kamp\u00D6dev\\MaskeTakip\\Business\\Abstract\\IApplicantService.cs",
+              "RelativeToolTip": "Business\\Abstract\\IApplicantService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T18:52:11.202Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PttManager.cs",
+              "DocumentMoniker": "C:\\Users\\Soner\\Desktop\\Projeler\\Engin Demiro\u011F\\2024Kamp\u00D6dev\\MaskeTakip\\Business\\Concrete\\PttManager.cs",
+              "RelativeDocumentMoniker": "Business\\Concrete\\PttManager.cs",
+              "ToolTip": "C:\\Users\\Soner\\Desktop\\Projeler\\Engin Demiro\u011F\\2024Kamp\u00D6dev\\MaskeTakip\\Business\\Concrete\\PttManager.cs",
+              "RelativeToolTip": "Business\\Concrete\\PttManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T18:42:56.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PersonManager.cs",
+              "DocumentMoniker": "C:\\Users\\Soner\\Desktop\\Projeler\\Engin Demiro\u011F\\2024Kamp\u00D6dev\\MaskeTakip\\Business\\Concrete\\PersonManager.cs",
+              "RelativeDocumentMoniker": "Business\\Concrete\\PersonManager.cs",
+              "ToolTip": "C:\\Users\\Soner\\Desktop\\Projeler\\Engin Demiro\u011F\\2024Kamp\u00D6dev\\MaskeTakip\\Business\\Concrete\\PersonManager.cs",
+              "RelativeToolTip": "Business\\Concrete\\PersonManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAC8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-17T22:36:27.149Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\Soner\\Desktop\\Projeler\\Engin Demiro\u011F\\2024Kamp\u00D6dev\\MaskeTakip\\Entities\\Concrete\\Person.cs",
+              "RelativeDocumentMoniker": "Entities\\Concrete\\Person.cs",
+              "ToolTip": "C:\\Users\\Soner\\Desktop\\Projeler\\Engin Demiro\u011F\\2024Kamp\u00D6dev\\MaskeTakip\\Entities\\Concrete\\Person.cs",
+              "RelativeToolTip": "Entities\\Concrete\\Person.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAAA0AAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-17T22:10:23.978Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Soner\\Desktop\\Projeler\\Engin Demiro\u011F\\2024Kamp\u00D6dev\\MaskeTakip\\ConsoleApp1\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
+              "ToolTip": "C:\\Users\\Soner\\Desktop\\Projeler\\Engin Demiro\u011F\\2024Kamp\u00D6dev\\MaskeTakip\\ConsoleApp1\\Program.cs",
+              "RelativeToolTip": "ConsoleApp1\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFsAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-11T04:40:52.722Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
